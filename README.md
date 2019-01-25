@@ -14,6 +14,8 @@ Download the Pesamoni github repository by [clicking here](https://github.com/Pe
 ```php
 require 'pesamoni_php'
 ```
+or 
+`composer require pesamoni/composer`
 without further specifying where Composer should look for the package.
 
 ### Manual Installation
