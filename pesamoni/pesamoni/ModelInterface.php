@@ -7,7 +7,7 @@
  * @category Class
  * @package  psm\pesamoni
  * @author   Swagger Codegen team
- * @link     https://github.com/swagger-api/swagger-codegen
+ * @link     https://github.com/pesamoni/pesamoni_php
  */
 
 /**
